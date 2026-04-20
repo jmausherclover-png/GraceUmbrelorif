@@ -1,0 +1,29 @@
+{
+  "name": "grace-umbrelorif-frontend",
+  "version": "1.0.0",
+  "description": "Grace Umbrelorif frontend React application",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "serve": "serve -s build -l 3000"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.18.0",
+    "react-scripts": "5.0.1",
+    "axios": "^1.6.0",
+    "redux": "^4.2.1",
+    "react-redux": "^8.1.3",
+    "@reduxjs/toolkit": "^1.9.7",
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+  }
+}
