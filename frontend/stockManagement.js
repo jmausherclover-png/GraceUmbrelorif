@@ -1,0 +1,1 @@
+// Stock management interface code here
