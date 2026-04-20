@@ -1,0 +1,14 @@
+{
+  "name": "grace-umbrelorif",
+  "version": "1.0.0",
+  "description": "Grace Umbrelorif pharmacy & clinic management system",
+  "private": true,
+  "scripts": {
+    "start": "bash start.sh",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
